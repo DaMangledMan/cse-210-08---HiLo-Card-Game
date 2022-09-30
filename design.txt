@@ -1,0 +1,15 @@
+We are going to start with a main funstion to run the the different parts of a turn
+    the different parts of a turn are as follows:
+      1  dealer draws
+      2  player declares higher or lower
+      3  dealer draws
+      4  reveals if player was correct
+      5  distibutes points
+      6  return to step 2
+
+possible classes:
+    deck
+    dealer draw
+    player choice
+    reveal phase (reveal - point calculation)
+    replay
