@@ -1,4 +1,4 @@
-We are going to start with a main funstion to run the the different parts of a turn
+We are going to start with a main function to run the the different parts of a turn
     the different parts of a turn are as follows:
       1  dealer draws
       2  player declares higher or lower
