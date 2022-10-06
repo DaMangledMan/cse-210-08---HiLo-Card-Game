@@ -13,7 +13,7 @@ class Deck
         }
     }
 
-    public int draw(List<int> deck)
+    public int draw()
     {
         int index = Random.Next(deck.Count);
         int card = deck[index];
