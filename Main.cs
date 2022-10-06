@@ -89,10 +89,12 @@
         string right = "right";
         string wrong = "wrong";
         string same = "same";
-        
+        string Correct_ = "";
+
+
         if (currCard == prevCard)
         {
-            return same;
+            Correct_ = same;
         }
         else
         {
@@ -100,25 +102,28 @@
             {
                 if (currCard > prevCard)
                 {
-                    return right;
+                    Correct_ = right;
                 }
                 else
                 {
-                    return wrong;
+                    Correct_ = wrong;
                 }
             }
             else
             {
                 if (currCard < prevCard)
                 {
-                    return right;
+                    Correct_ = right;
                 }
                 else
                 {
-                    return wrong;
+                    Correct_ = wrong;
                 }
             }
         }
+
+        Console.WriteLine($"You were {Correct_}!");
+        return Correct_;
     }
 
 
