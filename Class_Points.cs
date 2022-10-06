@@ -1,7 +1,6 @@
 class Points
 {
 
-
     int points = new int ();
 
 
@@ -23,5 +22,6 @@ class Points
         {
             this.points += -75;
         }
+        Console.WriteLine($"Your current point count is {points}");
     }
 }

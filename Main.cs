@@ -28,21 +28,20 @@
             // draws the next card and calculates if declaration was correct
             int prev_card = curr_card;
             curr_card = deck.draw();
-            string correct = correct(prev_card, curr_card, choice);
+            string Correct = correct(prev_card, curr_card, choice);
 
             // calculates points based on correctness
-            points.calculate(correct);
+            points.calculate(Correct);
 
             // asks player if they'd like to replay
-            string replay = replay();
-            if (replay == "y")
+            string Replay = replay();
+            if (Replay == "n")
             {
                 break;
             }
             else {}
 
         } while (true);
-
     }
 
 

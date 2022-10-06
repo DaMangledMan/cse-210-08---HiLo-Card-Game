@@ -1,6 +1,9 @@
 class Deck
 {
+
     List <int> deck = new List <int> ();
+
+
 
     public Deck()
     {
@@ -13,6 +16,8 @@ class Deck
         }
     }
 
+
+
     public int draw()
     {
         var random = new Random();
@@ -21,5 +26,4 @@ class Deck
         deck.RemoveAt(index);
         return card;
     }
-    
 }

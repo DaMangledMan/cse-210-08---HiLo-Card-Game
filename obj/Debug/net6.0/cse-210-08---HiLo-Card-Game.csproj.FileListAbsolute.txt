@@ -3,3 +3,13 @@ C:\Users\jacob\Documents\GitHub\cse-210-08---HiLo-Card-Game\obj\Debug\net6.0\cse
 C:\Users\jacob\Documents\GitHub\cse-210-08---HiLo-Card-Game\obj\Debug\net6.0\cse-210-08---HiLo-Card-Game.AssemblyInfoInputs.cache
 C:\Users\jacob\Documents\GitHub\cse-210-08---HiLo-Card-Game\obj\Debug\net6.0\cse-210-08---HiLo-Card-Game.AssemblyInfo.cs
 C:\Users\jacob\Documents\GitHub\cse-210-08---HiLo-Card-Game\obj\Debug\net6.0\cse-210-08---HiLo-Card-Game.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Documents\GitHub\cse-210-08---HiLo-Card-Game\bin\Debug\net6.0\cse-210-08---HiLo-Card-Game.exe
+C:\Users\jacob\Documents\GitHub\cse-210-08---HiLo-Card-Game\bin\Debug\net6.0\cse-210-08---HiLo-Card-Game.deps.json
+C:\Users\jacob\Documents\GitHub\cse-210-08---HiLo-Card-Game\bin\Debug\net6.0\cse-210-08---HiLo-Card-Game.runtimeconfig.json
+C:\Users\jacob\Documents\GitHub\cse-210-08---HiLo-Card-Game\bin\Debug\net6.0\cse-210-08---HiLo-Card-Game.dll
+C:\Users\jacob\Documents\GitHub\cse-210-08---HiLo-Card-Game\bin\Debug\net6.0\cse-210-08---HiLo-Card-Game.pdb
+C:\Users\jacob\Documents\GitHub\cse-210-08---HiLo-Card-Game\obj\Debug\net6.0\cse-210-08---HiLo-Card-Game.dll
+C:\Users\jacob\Documents\GitHub\cse-210-08---HiLo-Card-Game\obj\Debug\net6.0\refint\cse-210-08---HiLo-Card-Game.dll
+C:\Users\jacob\Documents\GitHub\cse-210-08---HiLo-Card-Game\obj\Debug\net6.0\cse-210-08---HiLo-Card-Game.pdb
+C:\Users\jacob\Documents\GitHub\cse-210-08---HiLo-Card-Game\obj\Debug\net6.0\cse-210-08---HiLo-Card-Game.genruntimeconfig.cache
+C:\Users\jacob\Documents\GitHub\cse-210-08---HiLo-Card-Game\obj\Debug\net6.0\ref\cse-210-08---HiLo-Card-Game.dll
