@@ -1,0 +1,5 @@
+C:\Users\jacob\Documents\GitHub\cse-210-08---HiLo-Card-Game\obj\Debug\net6.0\cse-210-08---HiLo-Card-Game.csproj.AssemblyReference.cache
+C:\Users\jacob\Documents\GitHub\cse-210-08---HiLo-Card-Game\obj\Debug\net6.0\cse-210-08---HiLo-Card-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Documents\GitHub\cse-210-08---HiLo-Card-Game\obj\Debug\net6.0\cse-210-08---HiLo-Card-Game.AssemblyInfoInputs.cache
+C:\Users\jacob\Documents\GitHub\cse-210-08---HiLo-Card-Game\obj\Debug\net6.0\cse-210-08---HiLo-Card-Game.AssemblyInfo.cs
+C:\Users\jacob\Documents\GitHub\cse-210-08---HiLo-Card-Game\obj\Debug\net6.0\cse-210-08---HiLo-Card-Game.csproj.CoreCompileInputs.cache
