@@ -15,7 +15,8 @@ class Deck
 
     public int draw()
     {
-        int index = Random.Next(deck.Count);
+        var random = new Random();
+        int index = random.Next(deck.Count);
         int card = deck[index];
         deck.RemoveAt(index);
         return card;

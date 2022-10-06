@@ -17,7 +17,7 @@
         do
         {
             // shows current card
-            Console.WriteLine($"The current card is {card}");
+            Console.WriteLine($"The current card is {curr_card}");
 
             // asks if they choose higher or lower
             string choice = declare();
