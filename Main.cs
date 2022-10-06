@@ -7,11 +7,14 @@
 
     static void Main()
     {
-        // creates the deck
+        // creates the deck and points
         Deck deck = new Deck();
+        Points points = new Points();
+
+        // draws the first card and sets points to start the game
+        int curr_card = deck.draw();
+        points.setPoints();
         
-        // draws the first card to start the game
-        int curr_card = Deck.draw();
         
         // starts the game loop
         do
@@ -24,11 +27,11 @@
 
             // draws the next card and calculates if declaration was correct
             int prev_card = curr_card;
-            int curr_card = Deck.draw();
+            curr_card = deck.draw();
             string correct = correct(prev_card, curr_card, choice);
 
             // calculates points based on correctness
-
+            points.calculate(correct);
 
             // asks player if they'd like to replay
             string replay = replay();
