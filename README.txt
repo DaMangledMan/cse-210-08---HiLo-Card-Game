@@ -18,14 +18,20 @@ Program Structure:
     programs process:
         main 
             runs through everything else that has been created
-        draw_phase
-            draws a card and shows it to player
+        class_deck
+            deck_creation
+                builds the deck from nothing and stores it as an object
+            draw_phase
+                draws a card, shows it to player, and discards it
         player_declaration
             takes high/low input from player
         correctness_calculation
             compares two cards to determine correctness of player input
-        point_distribution
-            distibutes points and show it to player
+        class_points
+            start_points
+                sets the starting point count as an object
+            point_distribution
+                adds or subtracts points based on player correctness
         replay_question
             asks player if they want to play another round
 

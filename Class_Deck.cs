@@ -1,10 +1,11 @@
 class Deck
 {
 
+    // creates a storage variable
     List <int> deck = new List <int> ();
 
 
-
+    // builds the deck and stores it inside the afformentioned variable
     public Deck()
     {
         for (int i = 1; i <= 13; i += 1)
@@ -17,7 +18,7 @@ class Deck
     }
 
 
-
+    // draws one card from the deck and discards the card after showing it to the user
     public int draw()
     {
         var random = new Random();
